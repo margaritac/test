@@ -4,7 +4,7 @@
   "description": "php stander lib",
   "keywords" : ["swoole", "framework", "async","easyswoole"],
   "homepage" : "https://www.easyswoole.com/",
-  "license": "MIT",
+  "license" : "Apache-2.0",
   "authors": [
     {
       "name": "kk",
